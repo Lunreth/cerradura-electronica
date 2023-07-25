@@ -1,7 +1,7 @@
 # CERRADURA ELECTRÓNICA
 Prototipo completamente funcional de cerradura electrónica para una puerta donde el usuario deba ingresar una contraseña de N dígitos como requisito de su apertura
 
-[image](https://imgur.com/I4gXalj)
+[image](https://i.imgur.com/I4gXalj.png)
 
 # PARTES DEL PROYECTO
 - `Parte Analógica`
