@@ -2,12 +2,16 @@
 Prototipo completamente funcional de cerradura electrónica para una puerta donde el usuario deba ingresar una contraseña de N dígitos como requisito de su apertura
 
 ![Imgur](http://imgur.com/I4gXalj.png)
+![Imgur](http://imgur.com/TWuYNWy.png)
 
 # PARTES DEL PROYECTO
 - `Parte Analógica`
   - Alimentación + rectificación + regulación de voltaje
 - `Parte Digital`
   - Lógica + control
+ 
+![Imgur](http://imgur.com/abHHBmf.png)
+![Imgur](http://imgur.com/oDu06ab.png)
 
 # MATERIALES
 ❖	Cerradura electromagnética (12v AC)
@@ -25,6 +29,9 @@ Prototipo completamente funcional de cerradura electrónica para una puerta dond
 
 ❖	Resistores de 220Ω y 470Ω (+Opcional 1kΩ para LED rojo)
 ❖	Cables monofilares
+
+![Imgur](http://imgur.com/mvyKiDW.png)
+![Imgur](http://imgur.com/YyN85aF.png)
 
 # CONCLUSIONES
 
